@@ -12,3 +12,6 @@ This project compares the efficiency and scalability of Randomized Quicksort and
 
 ## How to Run
 1. Clone this repository and run the python files `randomized_quicksort.py` and `hash_table_chaining.py`
+
+## Summary of Findings:
+Please go to `Report.md` for the report of my findings
